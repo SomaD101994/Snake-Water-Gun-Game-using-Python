@@ -1,5 +1,4 @@
 # Snake-Water-Gun-Game-using-Python
-Creating Snake Water Gun Game Project
 Snake Water Gun is one of the famous two-player game played by many people. It is a hand game in which the player randomly chooses any of the three forms i.e. snake, water, and gun. Here, we are going to implement this game using python. 
 This program is a part of python tutorials for absolute beginners series by CodeWithHarry youtube channel.
 
